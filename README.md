@@ -1,2 +1,3 @@
-# Devops-1
-CI-CD pipelines Demo
+# maven-project
+
+Simple Maven Project
